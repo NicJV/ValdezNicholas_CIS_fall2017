@@ -1,0 +1,2 @@
+# ValdezNicholas_CIS_fall2017
+introuductory programming class repository
